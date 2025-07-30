@@ -1,0 +1,14 @@
+{
+    "name": "Better Bluetooth Audio",
+    "description": "Forces iPhone microphone usage while keeping Bluetooth headphones for output during Discord calls",
+    "version": "1.0.0",
+    "author": "YourName",
+    "main": "index.js",
+    "permissions": [
+        "audio",
+        "microphone",
+        "bluetooth"
+    ],
+    "platforms": ["ios"],
+    "bunnyVersion": ">=1.0.0"
+}
